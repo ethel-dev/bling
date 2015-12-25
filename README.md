@@ -1,7 +1,9 @@
 bling
 =====
 
-http://www.ifyouretypingthisitstoolate.com/ for hotline bling
+Hotline Bling album art editor.
 
-**Example:**
+Example:
+--------
+
 ![example](http://i.imgur.com/ZGBMVJS.png)
